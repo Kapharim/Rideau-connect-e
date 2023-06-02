@@ -30,5 +30,5 @@ Le code principal qui repose sur le fonctionnement des moteurs
 [projet.txt](https://github.com/Kapharim/Rideau-connect-e/files/11633984/projet.txt)
 
 
-Nous avons regroupé l'entièreté de notre rapport de projet sous la forme d'un fichier PDF [rapport projet.pdf](https://github.com/Kapharim/Rideau-connect-e/files/11634032/rapport.projet.pdf)
+Nous avons regroupé l'entièreté de notre rapport de projet sous la forme d'un fichier PDF [rapport projet.pdf](https://github.com/Kapharim/Rideau-connect-e/files/11634032/rapport.projet.pdf) aussi disponible dans le dossier doc pour chacun de nous
 
